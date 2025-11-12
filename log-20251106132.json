@@ -1,0 +1,266 @@
+[
+  {
+    "timestamp": "2025-11-06T16:48:45.7175845Z",
+    "level": "DEBUG",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171441,
+    "data": "@clientid='{7E83FD51-11AE-49E0-8A5E-1C57783818CA}'"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:45.7919266Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171441,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 274.4756
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.0260813Z",
+    "level": "DEBUG",
+    "service": "api/LoginEmailTelefono/RegistrarLoginEmailTelefono",
+    "user_id": "usufull",
+    "request_id": 1500000000171442,
+    "data": "@paiscod=54, @bcocod=65, @input_login='nansytor12', @username=null, @usrpsw='Censys2302*', "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.0332046Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/LoginEmailTelefono/RegistrarLoginEmailTelefono",
+    "user_id": "usufull",
+    "request_id": 1500000000171442,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 26.5803
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.1763888Z",
+    "level": "DEBUG",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171443,
+    "data": "@clientid='{7E83FD51-11AE-49E0-8A5E-1C57783818CA}'"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.1779427Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171443,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 16.4951
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.8272774Z",
+    "level": "DEBUG",
+    "service": "api/UsuarioProvisorio/RecuperarUsuarioProvisorio",
+    "user_id": "usufull",
+    "request_id": 1500000000171444,
+    "data": "@username='nansytor12', @usrpsw='Censys2302*'"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.8333619Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/UsuarioProvisorio/RecuperarUsuarioProvisorio",
+    "user_id": "usufull",
+    "request_id": 1500000000171444,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 16.9196
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.9883281Z",
+    "level": "DEBUG",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171445,
+    "data": "@clientid='{7E83FD51-11AE-49E0-8A5E-1C57783818CA}'"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:46.9930508Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/Autorizacion/ObtenerAutorizacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171445,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 13.3026
+  },
+  {
+    "timestamp": "2025-11-06T16:48:47.1600331Z",
+    "level": "DEBUG",
+    "service": "api/AutenticacionSelectConfiguracion/RecuperarAutenticacionSelectConfiguracion",
+    "user_id": "usufull",
+    "request_id": 1500000000171446,
+    "data": "@proyeccod=1, @id_empresa_usu=0, @username='nansytor12', @aplicod=1, "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:47.1654346Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/AutenticacionSelectConfiguracion/RecuperarAutenticacionSelectConfiguracion",
+    "user_id": "usufull",
+    "request_id": 1500000000171446,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 13.9881
+  },
+  {
+    "timestamp": "2025-11-06T16:48:47.1753196Z",
+    "level": "DEBUG",
+    "service": "api/BancaDigitalClientePerfil/RecuperarBancaDigitalClientePerfil",
+    "user_id": "usufull",
+    "request_id": 1500000000171447,
+    "data": "@paiscod=54, @bcocod=65, @username='nansytor12', "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:47.1798897Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/BancaDigitalClientePerfil/RecuperarBancaDigitalClientePerfil",
+    "user_id": "usufull",
+    "request_id": 1500000000171447,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 18.4687
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.6588615Z",
+    "level": "DEBUG",
+    "service": "api/OrqEnvioNotificaciones/EjecutarOrqEnvioNotificaciones",
+    "user_id": "usufull",
+    "request_id": 1500000000171448,
+    "data": "CuerpoMail=null, Asunto=null, CodigoAplicacion=1, CodigoSucursal=20, CodigoFuncionalidad=1"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.8165006Z",
+    "level": "DEBUG",
+    "service": "api/HBNotificacionConfigFunc/RecuperarHBNotificacionConfigFunc",
+    "user_id": "usufull",
+    "request_id": 1500000000171449,
+    "data": "@username='nansytor12', @aplicod=1, @funcioncod=1, @telefono=null, @cuerpo_mail=null, @mensaje_sms=null, @asunto=null, @email=null, @envia_mail=0, @envia_sms=0, "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.8202559Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/HBNotificacionConfigFunc/RecuperarHBNotificacionConfigFunc",
+    "user_id": "usufull",
+    "request_id": 1500000000171449,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 21.7594
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.8989681Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/OrqEnvioNotificaciones/EjecutarOrqEnvioNotificaciones",
+    "user_id": "usufull",
+    "request_id": 1500000000171448,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 249.0476
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9708526Z",
+    "level": "DEBUG",
+    "service": "api/HbConsultaNotificacion/RecuperarHbConsultaNotificacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171450,
+    "data": "@paiscod=54, @bcocod=65, @username='nansytor12', @mencod=null"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9711503Z",
+    "level": "DEBUG",
+    "service": "api/HbConsultaCuenta/RecuperarHbConsultaCuenta",
+    "user_id": "usufull",
+    "request_id": 1500000000171451,
+    "data": "@paiscod=54, @bcocod=65, @succod=20, @username='nansytor12', @procsdocod=18, @concepto='TODO', "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9772009Z",
+    "level": "DEBUG",
+    "service": "api/Carousel/RecuperarCarousel",
+    "user_id": "usufull",
+    "request_id": 1500000000171452,
+    "data": "@idCarousel=-1"
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9774515Z",
+    "level": "DEBUG",
+    "service": "api/BOHorarioMenu/RecuperarBOHorarioMenu",
+    "user_id": "usufull",
+    "request_id": 1500000000171453,
+    "data": ""
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9833363Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/HbConsultaNotificacion/RecuperarHbConsultaNotificacion",
+    "user_id": "usufull",
+    "request_id": 1500000000171450,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 39.2709
+  },
+  {
+    "timestamp": "2025-11-06T16:48:48.9969563Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/Carousel/RecuperarCarousel",
+    "user_id": "usufull",
+    "request_id": 1500000000171452,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 51.4171
+  },
+  {
+    "timestamp": "2025-11-06T16:48:49.0041271Z",
+    "level": "INFORMATION",
+    "status_code": 200,
+    "error_code": 0,
+    "message": "",
+    "service": "api/BOHorarioMenu/RecuperarBOHorarioMenu",
+    "user_id": "usufull",
+    "request_id": 1500000000171453,
+    "ip_address": "172.16.57.3",
+    "latency_ms": 57.9824
+  },
+  {
+    "timestamp": "2025-11-06T16:48:49.0576683Z",
+    "level": "DEBUG",
+    "service": "api/CaducaPassword/RecuperarCaducaPassword",
+    "user_id": "usufull",
+    "request_id": 1500000000171456,
+    "data": "@paiscod=54, @bcocod=65, @succod=20, @username='nansytor12', @usrpsw='Censys2302*', @mensaje_salida=null, @control_pass=null, @cantidad_dias_a_vencer=null, "
+  },
+  {
+    "timestamp": "2025-11-06T16:48:49.0581425Z",
+    "level": "DEBUG",
+    "service": "api/ConsultaUltimoLogin/RecuperarConsultaUltimoLogin",
+    "user_id": "usufull",
+    "request_id": 1500000000171455,
+    "data": "@paiscod=54, @bcocod=65, @succod=20, @username='nansytor12', "
+  }
+]
